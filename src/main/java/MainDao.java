@@ -8,7 +8,7 @@ public class MainDao {
 //        user.setPassword("pass");
 //        userDao.create(user);
 
-     //   System.out.println(userDao.findAll());
+   System.out.println(userDao.findAll());
 
     }
 }
