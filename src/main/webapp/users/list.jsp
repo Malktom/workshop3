@@ -51,9 +51,6 @@
         </li>
 
 
-
-
-
         <!-- Sidebar Toggler (Sidebar) -->
         <div class="text-center d-none d-md-inline">
             <button class="rounded-circle border-0" id="sidebarToggle"></button>
@@ -236,7 +233,7 @@
         <script src="js/demo/chart-pie-demo.js"></script>
     </div>
     </div>
-<%@ include file="/header.jsp" %>
+<%--<%@ include file="/header.jsp" %>--%>
 <%@ include file="/footer.jsp" %>
 
 </body>
